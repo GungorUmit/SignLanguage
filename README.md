@@ -76,11 +76,11 @@ Para la fecha de entrega del 1 de junio, el equipo deberá presentar:
 
 ---
 
-El Equipo
-Alonso Campos 
-Adrián Bisquert
-Abigail Masapanta 
-Gabriel Vidal
-Umit Gungor 
+## ⚙️El Equipo
+* **Alonso Campos 
+* **Adrián Bisquert
+* **Abigail Masapanta 
+* **Gabriel Vidal
+* **Umit Gungor 
 
 
