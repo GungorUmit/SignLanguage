@@ -24,6 +24,8 @@ Para la fecha de entrega del 1 de junio, el equipo deberá presentar:
 
 ✅ **Repositorio en GitHub** con el código fuente documentado.
 
+✅ **Artículo del proyecto publicado en Medium
+
 ✅ **Demo en vivo** mostrando el funcionamiento del modelo.
 
 ✅ **Presentación técnica**, explicando los objetivos, desarrollo y tecnologías utilizadas.
