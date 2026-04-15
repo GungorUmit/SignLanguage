@@ -1,10 +1,10 @@
-# 🚀 Proyecto Sign Language Translator (LSE)
+# 🚀 Proyecto Sign Language (LSE)
 
 ## Visión general
 
 <img src="https://fundacionmusicforall.org/wp-content/uploads/2025/05/lengua-signos-espanola.png" alt="Lengua de Signos Española" width="50%" />
 
-## 📜 Briefing: PROYECTO COMPUTER VISION
+## 📜 Briefing: Proyecto Sign Language (LSE)
 
 ### 🔍 Planteamiento  
 
@@ -22,7 +22,7 @@ Aquí tenemos que explicar por qué y para qué estamos creando este proyecto.
 
 ## 📦 Condiciones de Entrega  
 
-Para la fecha de entrega 1 de junio, el equipo deberá presentar:  
+Para la fecha de entrega del 1 de junio, el equipo deberá presentar:  
 
 ✅ **Repositorio en GitHub** con el código fuente documentado.
 
