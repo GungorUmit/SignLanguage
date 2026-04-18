@@ -1,12 +1,12 @@
-# 🚀 Proyecto Sign Language (LSE)
+# 🚀 Proyecto Voz Visible (LSE)
 
 <img src="https://fundacionmusicforall.org/wp-content/uploads/2025/05/lengua-signos-espanola.png" alt="Lengua de Signos Española" width="50%" />
 
-## 📜 Briefing: Proyecto Sign Language (LSE)
+## 📜 Briefing: Proyecto Voz Visible (LSE)
 
 ## 📜 Definición del Proyecto
 
-El **Proyecto SignBridge (LSE)** es una solución tecnológica de vanguardia diseñada para eliminar las barreras de comunicación en el espacio público. Mediante el uso de **Inteligencia Artificial Multimodal**, el sistema automatiza la interpretación de mensajes acústicos y megafonía hacia la **Lengua de Signos Española (LSE)**.
+El **Proyecto Voz Visible (LSE)** es una solución tecnológica de vanguardia diseñada para eliminar las barreras de comunicación en el espacio público. Mediante el uso de **Inteligencia Artificial Multimodal**, el sistema automatiza la interpretación de mensajes acústicos y megafonía hacia la **Lengua de Signos Española (LSE)**.
 
 Nuestra misión es garantizar la accesibilidad universal y la autonomía de las personas sordas en entornos críticos como infraestructuras de transporte, edificios gubernamentales y servicios de emergencia, transformando anuncios sonoros en información visual comprensible en tiempo real.
 
