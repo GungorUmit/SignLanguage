@@ -1,0 +1,10 @@
+path,spoken_language,signed_language,start,end,words,glosses,priority
+lse/lse-5.pose,es,lse,0,0,5,5,0
+lse/lse-cinco.pose,es,lse,0,0,cinco,cinco,0
+lse/lse-el.pose,es,lse,0,0,el,el,0
+lse/lse-en.pose,es,lse,0,0,en,en,0
+lse/lse-llegar.pose,es,lse,0,0,llegar,llegar,0
+lse/lse-minuto.pose,es,lse,0,0,minuto,minuto,0
+lse/lse-salir.pose,es,lse,0,0,salir,salir,0
+lse/lse-tren.pose,es,lse,0,0,tren,tren,0
+lse/lse-salir.pose,es,lse,0,0,sale,salar,0

@@ -103,4 +103,27 @@ Para la fecha de entrega del 1 de junio, el equipo deberá presentar:
 * Gabriel Vidal
 * Umit Gungor 
 
+---
+
+## 🎬 Generar un vídeo de prueba
+
+Para probar la tubería de spoken to signed y generar un vídeo, usa:
+
+```bash
+python generate_video.py --text "hola mundo"
+```
+
+El resultado se guarda por defecto en `assets/output/` con un nombre generado automáticamente a partir del texto.
+Para entradas en español, el wrapper usa el fallback de fingerspelling disponible en el lexicón actual si no encuentra un lexicón por palabra.
+
+## 📚 Importar vídeos por palabra
+
+Si tienes vídeos propios para palabras concretas, puedes concatenarlos directamente por palabra sin pasar por pose:
+
+```bash
+python generate_word_video.py --text "hello world" --input-dir my_word_videos
+```
+
+Si tus archivos no se llaman exactamente como la palabra, añade un CSV con columnas `word,video` y pásalo con `--manifest`.
+
 

@@ -35,7 +35,7 @@ def _gloss_to_pose(
     results = [gloss_to_pose(gloss, pose_lookup, spoken_language, signed_language) for gloss in sentences]
     if len(results) == 1:
         return results[0]
-    return PoseResult(pose=concatenate_poses([r.pose for r in results], trim=False))
+    return PoseResult(pose=concatenate_poses([r.pose for r in results], trim=True))
 
 
 def _get_models_dir():
